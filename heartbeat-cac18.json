@@ -1,0 +1,27 @@
+{
+  "Users" : {
+    "1" : "char062",
+    "2" : "jake"
+  },
+  "Passwords" : {
+    "char062" : "charpass", 
+    "jake" : "jakepass"
+  },
+  "aeds" : [ null, {
+    "lat" : 25.68822,
+    "long" : -80.3304,
+    "name" : "Cvs"
+  }, {
+    "lat" : 25.690229,
+    "long" : -80.299881,
+    "name" : "Gulliver"
+  }, {
+    "lat" : 25.68363,
+    "long" : -80.31569,
+    "name" : "Publix"
+  }, {
+    "lat" : 25.822003,
+    "long" : -80.280792,
+    "name" : "Starbucks"
+  } ]
+}
