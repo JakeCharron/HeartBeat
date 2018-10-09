@@ -46,7 +46,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
+        UIApplication.shared.openURL(NSURL(fileURLWithPath: "tel://911") as URL)
     }
     
 }

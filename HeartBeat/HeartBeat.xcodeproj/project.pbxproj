@@ -24,6 +24,7 @@
 		5E25DBC7215EC1CF00DDDFA7 /* AEDView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AEDView.swift; sourceTree = "<group>"; };
 		5E7AFD6E2144091A00D58033 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		5E7AFD7021440BCB00D58033 /* RoundButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		5EEFCF2C216253C2001B0FA3 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5EFE1B86214404AA006BE059 /* HeartBeat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HeartBeat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EFE1B89214404AA006BE059 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5EFE1B8B214404AA006BE059 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -51,6 +52,7 @@
 		5EFE1B7D214404AA006BE059 = {
 			isa = PBXGroup;
 			children = (
+				5EEFCF2C216253C2001B0FA3 /* MyPlayground.playground */,
 				5EFE1B88214404AA006BE059 /* HeartBeat */,
 				5EFE1B87214404AA006BE059 /* Products */,
 				9166A8BA651627E6165EE659 /* Pods */,
