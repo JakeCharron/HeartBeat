@@ -1,9 +1,0 @@
-platform :ios, '12.0'
-
-target 'HeartBeat' do
-
-  use_frameworks!
-  pod 'Firebase/Auth'
-  pod 'Firebase/Core'
-  pod 'Firebase/Database'
-end
